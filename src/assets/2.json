@@ -1,0 +1,19 @@
+{
+    "name": "CatMeme",
+    "symbol": "wholexomecatmemes",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "4Qo2PYqJ3BbRBVbUq3QngUtABogQTwo1fuDjCqpoyi6i",
+          "share": 100
+        }
+      ]
+    }
+  }
